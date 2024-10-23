@@ -2,8 +2,6 @@
 
 Este é mais um desafio Power BI proposto pela [DIO](https://web.dio.me/play) em parceria com a [NTT DATA](https://www.nttdata.com/global/en/). 
 
-**Fonte de Dados:**
-
 O conjunto de dados utilizado é o "Financial Sample", que contém informações sobre vendas, produtos, descontos, segmentos de mercado e países.
 
 ### Objetivo:
@@ -30,7 +28,9 @@ O design do dashboard foi elaborado com base nos seguintes princípios:
 ### Navegação:
 
 A navegação entre as páginas é intuitiva através de botões claramente identificados, proporcionando uma experiência de uso fluida e agradável.
+Clique em [My_Project](https://app.powerbi.com/links/yHcF57uLv8?ctid=8e123a37-3744-4839-b542-42a08d32388b&pbi_source=linkShare) e experimente.
 
+**Fonte de Dados:**
 ### Destaques:
 
 * **Visualizações claras e concisas:** Gráficos de barras, linhas e matrizes cuidadosamente selecionados para representar os dados de forma eficaz.
