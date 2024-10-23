@@ -28,6 +28,7 @@ O design do dashboard foi elaborado com base nos seguintes princípios:
 ### Navegação:
 
 A navegação entre as páginas é intuitiva através de botões claramente identificados, proporcionando uma experiência de uso fluida e agradável.
+
 Clique em [My_Project](https://app.powerbi.com/links/yHcF57uLv8?ctid=8e123a37-3744-4839-b542-42a08d32388b&pbi_source=linkShare) e experimente.
 
 **Fonte de Dados:**
